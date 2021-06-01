@@ -21,5 +21,4 @@ target/debug/deps/distriptor_fixer.exe
 target/debug/deps/distriptor_fixer.pdb
 target/debug/deps/libdistriptor_fixer-7c586624e8c3dd6f.rmeta
 target/debug/deps/libdistriptor_fixer-6015aaa4c117226a.rmeta
-target/.rustc_info.json
-target/CACHEDIR.TAG
+
